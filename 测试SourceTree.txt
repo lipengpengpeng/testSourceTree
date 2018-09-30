@@ -2,4 +2,4 @@
 2.提交 勾选立即推送
 3.提交 不都选立即推送 测试-》推送
 4.在SourceTree中修改内容 添加
-  在SourceTree中修改内容 删除	
+  在SourceTree 删除	
